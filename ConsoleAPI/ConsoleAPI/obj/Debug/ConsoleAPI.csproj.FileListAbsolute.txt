@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.dll
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.dll
+C:\Users\user\source\repos\ConsoleAPI\ConsoleAPI\obj\Debug\ConsoleAPI.pdb
